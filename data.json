@@ -1,0 +1,16 @@
+[   
+     {
+        "id": "001",
+        "project_name": "Portafolio Project v1.0",
+        "description": "My first web programming project",
+        "technologies":["HTML", "CSS", "JS"],
+        "images_urls":["/static/pictures/prject1_Landing.png", "/static/pictures/prject1_Screenshot_1.png","/static/pictures/prject1_Screenshot_2.png"]
+    },
+    {
+        "id": "002",
+        "project_name": "Personal travel blog",
+        "description": "A personal blog with the travels I've done",
+        "technologies":["Wordpress"],
+        "images_urls":["/static/pictures/Project2_Landing.jpg", "/static/pictures/prject2_Screenshot_1.png","/static/pictures/prject3_Screenshot_2.png"]
+    }
+]
